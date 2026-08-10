@@ -1,6 +1,6 @@
 # Privacy Policy for Robia
 
-**Effective date:** [DATE]
+**Effective date:** 10/08/2026
 
 Robia is a digital wardrobe app published by GusanitoLabs (“we”, “us”). This policy explains how Robia handles information when you use the app.
 
