@@ -12,7 +12,7 @@ Robia processes garment images on your device to support photo editing, backgrou
 
 ## Optional on-device models
 
-To offer smart features (garment suggestions, search, precise background removal) Robia can download machine-learning model files from Hugging Face and GitHub after you agree. These downloads only request the model files: no photo, wardrobe data or personal information is sent. All analysis runs on your device.
+To offer smart features (garment suggestions, search, precise background removal) Robia can download machine-learning model files from Hugging Face and GitHub after you agree. These downloads only request the model files: no photo or wardrobe data is sent, and no personal information beyond the standard connection details (such as your IP address) that any website receives. All analysis runs on your device.
 
 ## Optional Google Drive backup
 
@@ -34,7 +34,7 @@ Robia uses the security controls of your device and, when you opt in, the Google
 
 ## Analytics and third-party services
 
-Robia’s own code and listed libraries contain no analytics, advertising or crash-reporting SDK. It uses Google Play services components on your device (Google sign-in and on-device ML Kit features), which are governed by Google’s privacy policy.
+Robia’s own code contains no analytics, advertising or tracking, and Robia does not send usage data to its developers (there is no Robia server). It uses Google Play services components on your device (Google sign-in and on-device ML Kit features), which are governed by Google’s privacy policy.
 
 ## Children
 
