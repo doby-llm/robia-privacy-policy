@@ -1,14 +1,18 @@
 # Privacy Policy for Robia
 
-**Effective date:** 10/08/2026
+**Effective date:** 01/11/2026
 
 Robia is a digital wardrobe app published by GusanitoLabs (“we”, “us”). This policy explains how Robia handles information when you use the app.
 
 ## Information you add to Robia
 
-Robia stores the wardrobe information that you choose to add, including photographs of garments and optional details such as garment names, notes, colors, tags, categories, seasons, occasions, locations, and fit preferences. This information is used only to provide the wardrobe features you request.
+Robia stores the wardrobe information that you choose to add, including photographs of garments and optional details such as garment names, notes, colors, tags, collections, categories, seasons, occasions, locations, and fit preferences. This information is used only to provide the wardrobe features you request.
 
 Robia processes garment images on your device to support photo editing, background processing and garment-related information. We do not operate a server that receives your wardrobe data for these on-device features.
+
+## Optional on-device models
+
+To offer smart features (garment suggestions, search, precise background removal) Robia can download machine-learning model files from Hugging Face and GitHub after you agree. These downloads only request the model files: no photo, wardrobe data or personal information is sent. All analysis runs on your device.
 
 ## Optional Google Drive backup
 
@@ -27,6 +31,10 @@ Data stored only on your device remains there until you delete it, uninstall the
 ## Security
 
 Robia uses the security controls of your device and, when you opt in, the Google Drive account you authorize. No security method can guarantee absolute security; keep your device and Google account protected.
+
+## Analytics and third-party services
+
+Robia’s own code and listed libraries contain no analytics, advertising or crash-reporting SDK. It uses Google Play services components on your device (Google sign-in and on-device ML Kit features), which are governed by Google’s privacy policy.
 
 ## Children
 
